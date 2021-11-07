@@ -1,0 +1,21 @@
+-------------------------
+   Welcome to Qwirkle
+-------------------------
+          Menu
+-------------------------
+1. New Game
+2. Load Game
+3. Credits (student info)
+4. Minor: Toggle Help Command. 
+       [0;31m-Currently On-[Off][0m
+5. Minor: Toggle Better Invalid Input. 
+       [0;31m-Currently On-[Off][0m
+6. Major: 3-4 Players Mode. 
+       [0;31m-Currently On-[Off][0m
+7. Quit
+Current amount of players: 2
+-------------------------
+>How many players will be playing? 3 or 4?
+>How many players will be playing? 3 or 4?
+>How many players will be playing? 3 or 4?
+>Goodbye.

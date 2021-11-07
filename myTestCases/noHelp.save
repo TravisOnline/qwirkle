@@ -1,0 +1,18 @@
+#myformat
+3
+ONE
+0
+P5, G3, G6, G5, B6, R2
+TWO
+0
+P1, R6, P1, P3, G4, R2
+THREE
+0
+G2, B5, G4, P5, O3, Y1
+26,26
+
+P4, R5, O3, B6, Y3, O1, Y2, R3, P2, B1, R3, O5, P4, B2, Y5, G3, G1, B1, B3, R6, O6, O4, Y1, G5, R4, R1, B2, P6, Y5, O4, O5, O2, B4, G6, R4, B4, B3, O2, O6, G1, G2, Y6, Y4, Y3, P6, B5, Y4, R1, P2, R5, O1, Y6, Y2, P3
+ONE
+1
+1
+1
